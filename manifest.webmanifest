@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "CivilSimAI+ Pecutan SPM 2026 · Pengajian Kejuruteraan Awam",
+  "short_name": "CivilSimAI+",
+  "description": "SPM 2026 Pengajian Kejuruteraan Awam 3761: bank soalan Kertas 1, simulasi kerja kursus, simulator beranimasi, nota infografik dan aplikasi industri. Oleh Ir. Ts. Dr. Muhammad Hafiz HASSAN, USM.",
+  "lang": "ms",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0B1D33",
+  "theme_color": "#123A5A",
+  "categories": ["education"],
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
